@@ -36,9 +36,6 @@
 
 ## 👨🏻‍💻 Languages and Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xq-xia&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
