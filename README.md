@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="[https://github.com/xq-xia](https://xq-xia.github.io/)"><strong>🌐 Explore my full portfolio →</strong></a>
+  <a href="https://xq-xia.github.io/"><strong>🌐 Explore my full portfolio →</strong></a>
 </p>
 
 <p align="center">
