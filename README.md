@@ -23,9 +23,11 @@
 ---
 
 ## 🔬 Research Interests
-> **AI-Driven Genomic Variant Interpretation** > I focus on automating the classification of variant pathogenicity based on **ACMG-AMP guidelines**. By developing frameworks like **HCSeeker** (utilizing KDE and EM clustering) and **HCSeer2** (employing CNN and Self-Attention), I aim to systematically identify genomic "hot" and "cold" spots to provide robust clinical evidence (PM1/PP2/BP1).
+> **AI-Driven Genomic Variant Interpretation.**
+> I focus on automating the classification of variant pathogenicity based on **ACMG-AMP guidelines**. By developing frameworks like **HCSeeker** (utilizing KDE and EM clustering) and **HCSeer2** (employing CNN and Self-Attention), I aim to systematically identify genomic "hot" and "cold" spots to provide robust clinical evidence (PM1/PP2/BP1).
 >    
-> **Interpretable Deep Learning in Healthcare** > I am passionate about enhancing the transparency of AI in clinical settings. My work involves applying interpretability methods such as **SHAP** and **Integrated Gradients** to complex models—like pediatric anesthesia recovery prediction—ensuring that deep learning insights are both actionable and trustworthy for medical professionals.
+> **Interpretable Deep Learning in Healthcare.**
+> I am passionate about enhancing the transparency of AI in clinical settings. My work involves applying interpretability methods such as **SHAP** and **Integrated Gradients** to complex models—like pediatric anesthesia recovery prediction—ensuring that deep learning insights are both actionable and trustworthy for medical professionals.
 
 ---
 
